@@ -1,5 +1,7 @@
 # Simple BMI Calculator with GUI
 
+<img width="398" height="482" alt="image" src="https://github.com/user-attachments/assets/1fde97a6-2a05-4635-8a0c-c6910e0ca956" />
+
 A lightweight Python application built with `tkinter` that calculates Body Mass Index (BMI) and provides a visual feedback by changing the background color based on the results.
 
 ## Features
@@ -15,4 +17,11 @@ A lightweight Python application built with `tkinter` that calculates Body Mass 
 1. Make sure you have **Python 3** installed on your system.
 2. Clone this repository:
    ```bash
-   git clone 
+   git clone [https://github.com/Muller84/bmi-calculator-python.git]
+3. Run the application:
+   python main.py
+
+Requirements
+Python 3.x
+
+Tkinter (usually comes pre-installed with Python)
