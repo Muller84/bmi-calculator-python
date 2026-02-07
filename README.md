@@ -19,7 +19,7 @@ A lightweight Python application built with `tkinter` that calculates Body Mass 
    ```bash
    git clone [https://github.com/Muller84/bmi-calculator-python.git]
 3. Run the application:
-4. ```bash
+   ```bash
    python main.py
 
 Requirements
